@@ -1,0 +1,42 @@
+body {
+    box-sizing: border-box;
+    background-color: #fcf8e8;
+  }
+
+  #heading {
+    padding-left: 2%;
+  }
+
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 8px;
+    border-color: #aee6e6;
+    width: 6%;
+  }
+
+  h1 {
+    color: #e27802;  
+  }
+
+  h3 {
+    color: #f88f01;
+  }
+
+  .internships,
+  .internships tr,
+  .internships th,
+  .internships td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+  }
+
+  .skills ,
+  .skills tr,
+  .skills td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      padding: 10px;
+  }
